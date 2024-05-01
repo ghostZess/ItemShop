@@ -1,15 +1,15 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_197_Athena_Commando_F_Biker","AthenaBackpack:BID_097_BikerFemale"],
+    "itemGrants": ["AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_014_WinterCamo"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
     "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_095_Witch"],
+    "itemGrants": ["AthenaGlider:Glider_ID_196_CycloneMale"],
     "price": 800
   },
   "daily4": {
@@ -21,19 +21,20 @@
     "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_Ringer_Beyond"],
-    "price": 1000
+    "itemGrants": ["AthenaDance:EID_ArtGiant"],
+    "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_061_Athena_Commando_F_SkiGirl","AthenaBackpack:BID_014_SkiGirl"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:"CID_760_Athena_Commando_F_NeonTightSuit","CID_715_Athena_Commando_F_TwinDark"],
+    "price": 1200
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_067_Athena_Commando_F_SkiGirl_CHN","AthenaBackpack:BID_020_SkiGirl_CHN"],
-    "price": 1500
+    "itemGrants": ["AthenaDance:EID_ArtGiant,"]
+"],
+    "price": 800
   },
    "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_065_Athena_Commando_F_SkiGirl_FRA","AthenaBackpack:BID_010_SkiDude_FRA"],
-    "price": 1500
+    "itemGrants": ["AthenaBackpack:BID_771_Lasso_ZN4VA","AthenaGlider:Glider_ID_196_CycloneMale"],
+    "price": 800
   }
 }
